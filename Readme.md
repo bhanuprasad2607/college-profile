@@ -1,4 +1,4 @@
-college profile
+<h1>college profile</h1>
 	- student profile
 		* student id
 		* password
@@ -10,7 +10,7 @@ college profile
 		* password
 
 
-student profile visiablity
+<h2>student profile visiablity</h2>
 	- Usn
 	- student time table and class no.
 	- worksheet and submission time
