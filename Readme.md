@@ -1,13 +1,14 @@
-<h1>college profile</h1>
-	- student profile
-		* student id
-		* password
-	- teacher profile
-		* teacher id
-		* password
-	- admin profile
-		* admin id
-		* password
+# college profile
+
+- student profile
+  * student id
+  * password
+- teacher profile
+  * teacher id
+  * password
+- admin profile
+  * admin id
+  * password
 
 
 <h2>student profile visiablity</h2>
