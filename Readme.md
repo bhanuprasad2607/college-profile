@@ -57,4 +57,4 @@
 ###### Note :
 ###### configuration management: Configuration Management, or Software Configuration Management, is the tracking and controlling of software changes in a system. Its purpose is to ensure consistency in performance, functionality, and design.(eg: controlling teacher teaching methods on the bases of student review. And making decisions of student promotion and many like etc.
 ###### buffer management: The storing of information for certain interval of time and retreving that after some time or else delete by itself after cetain limit of time 
-</sub>
+
